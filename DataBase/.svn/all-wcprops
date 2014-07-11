@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/funkitechnologies_ttmachine/!svn/ver/1/DataBase
+END
+TTMDataBaseManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/funkitechnologies_ttmachine/!svn/ver/3/DataBase/TTMDataBaseManager.m
+END
+TTMContactInformation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/funkitechnologies_ttmachine/!svn/ver/1/DataBase/TTMContactInformation.m
+END
+ContactInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/funkitechnologies_ttmachine/!svn/ver/1/DataBase/ContactInfo.m
+END
+MessageSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/funkitechnologies_ttmachine/!svn/ver/3/DataBase/MessageSetting.h
+END
+TTMDataBaseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/funkitechnologies_ttmachine/!svn/ver/3/DataBase/TTMDataBaseManager.h
+END
+TTMContactInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/funkitechnologies_ttmachine/!svn/ver/1/DataBase/TTMContactInformation.h
+END
+ContactInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/funkitechnologies_ttmachine/!svn/ver/1/DataBase/ContactInfo.h
+END
+MessageSetting.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/funkitechnologies_ttmachine/!svn/ver/3/DataBase/MessageSetting.m
+END

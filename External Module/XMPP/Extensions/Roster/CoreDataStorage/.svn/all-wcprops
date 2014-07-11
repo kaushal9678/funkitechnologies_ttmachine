@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage
+END
+XMPPResourceCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPResourceCoreDataStorageObject.h
+END
+XMPPRosterCoreDataStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPRosterCoreDataStorage.h
+END
+XMPPGroupCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPGroupCoreDataStorageObject.h
+END
+XMPPResourceCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPResourceCoreDataStorageObject.m
+END
+XMPPRosterCoreDataStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPRosterCoreDataStorage.m
+END
+XMPPUserCoreDataStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPUserCoreDataStorageObject.h
+END
+XMPPGroupCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPGroupCoreDataStorageObject.m
+END
+XMPPUserCoreDataStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/Roster/CoreDataStorage/XMPPUserCoreDataStorageObject.m
+END

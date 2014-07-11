@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage
+END
+XMPPRoomMessageMemoryStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomMessageMemoryStorageObject.h
+END
+XMPPRoomMemoryStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomMemoryStorage.h
+END
+XMPPRoomMessageMemoryStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomMessageMemoryStorageObject.m
+END
+XMPPRoomOccupantMemoryStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomOccupantMemoryStorageObject.h
+END
+XMPPRoomMemoryStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomMemoryStorage.m
+END
+XMPPRoomOccupantMemoryStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/MemoryStorage/XMPPRoomOccupantMemoryStorageObject.m
+END

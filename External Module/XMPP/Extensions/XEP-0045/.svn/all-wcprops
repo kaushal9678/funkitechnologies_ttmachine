@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045
+END
+XMPPMUC.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPMUC.h
+END
+XMPPMessage+XEP0045.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPMessage+XEP0045.h
+END
+XMPPRoomPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPRoomPrivate.h
+END
+XMPPMUC.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPMUC.m
+END
+XMPPRoomOccupant.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPRoomOccupant.h
+END
+XMPPMessage+XEP0045.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPMessage+XEP0045.m
+END
+XMPPRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPRoom.h
+END
+XMPPRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPRoom.m
+END
+XMPPRoomMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Extensions/XEP-0045/XMPPRoomMessage.h
+END

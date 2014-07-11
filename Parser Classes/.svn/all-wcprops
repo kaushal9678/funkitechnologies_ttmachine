@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes
+END
+TTMBaseParser_ContactSync.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/funkitechnologies_ttmachine/!svn/ver/3/Parser%20Classes/TTMBaseParser_ContactSync.m
+END
+TTMBaseParser_CodeVarification.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes/TTMBaseParser_CodeVarification.m
+END
+TTMBaseParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes/TTMBaseParser.h
+END
+TTMBaseParser_GetContact.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes/TTMBaseParser_GetContact.m
+END
+TTMBaseParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes/TTMBaseParser.m
+END
+TTMBaseParser_EmailSend.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/funkitechnologies_ttmachine/!svn/ver/1/Parser%20Classes/TTMBaseParser_EmailSend.m
+END

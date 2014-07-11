@@ -1,0 +1,80 @@
+10
+
+dir
+2
+https://funkitechnologies.unfuddle.com/svn/funkitechnologies_ttmachine/External%20Module/XMPP
+https://funkitechnologies.unfuddle.com/svn/funkitechnologies_ttmachine
+
+
+
+2014-06-12T14:25:51.549283Z
+1
+komal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5cac7e8a-fe6b-47ad-bf28-958bf8537a8c
+
+Authentication
+dir
+
+Extensions
+dir
+
+Categories
+dir
+
+Core
+dir
+
+XMPPFramework.h
+file
+
+
+
+
+2014-06-14T06:33:21.000000Z
+fcd429431345e582db65ef8f62430cbb
+2014-06-12T14:25:51.549283Z
+1
+komal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1346
+
+Utilities
+dir
+
+Vendor
+dir
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5063" systemVersion="12F45" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="ContactInfo" representedClassName="ContactInfo" syncable="YES">
+        <attribute name="contactEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactImage" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="contactName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactStatus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactTimeZone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contactType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="settingType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="MessageSetting" representedClassName="MessageSetting" syncable="YES">
+        <attribute name="hours" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isDuration" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isSpecific" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="minutes" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="specificDateTimeInterval" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeInterval" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ContactInfo" positionX="-63" positionY="-18" width="128" height="178"/>
+        <element name="MessageSetting" positionX="-387" positionY="36" width="180" height="133"/>
+    </elements>
+</model>

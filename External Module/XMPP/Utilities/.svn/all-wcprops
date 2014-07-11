@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities
+END
+RFImageToDataTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/RFImageToDataTransformer.h
+END
+XMPPIDTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPIDTracker.h
+END
+GCDMulticastDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/GCDMulticastDelegate.h
+END
+RFImageToDataTransformer.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/RFImageToDataTransformer.m
+END
+XMPPSRVResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPSRVResolver.h
+END
+XMPPIDTracker.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPIDTracker.m
+END
+XMPPStringPrep.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPStringPrep.h
+END
+DDList.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/DDList.h
+END
+GCDMulticastDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/GCDMulticastDelegate.m
+END
+XMPPSRVResolver.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPSRVResolver.m
+END
+XMPPStringPrep.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/XMPPStringPrep.m
+END
+DDList.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Utilities/DDList.m
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Vendor/libidn
+END
+stringprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Vendor/libidn/stringprep.h
+END
+build-libidn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Vendor/libidn/build-libidn.sh
+END
+idn-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/funkitechnologies_ttmachine/!svn/ver/1/External%20Module/XMPP/Vendor/libidn/idn-int.h
+END
